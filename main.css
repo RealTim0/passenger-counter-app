@@ -13,7 +13,7 @@ body {
 .div{
     background-image: linear-gradient(pink, white);
     margin:auto;
-    padding: 50px;
+    padding: 40px;
     border: 3px solid black;
     border-radius: 10px;
     width: fit-content;
@@ -22,6 +22,7 @@ h1 {
     margin-top: 10px;
     margin-bottom: 10px;
    font-size:50px;
+   white-space: nowrap;
 }
 
 h2 {
